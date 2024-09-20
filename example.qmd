@@ -1,0 +1,9 @@
+---
+title: "git-version Example"
+---
+
+## Heading
+
+Current version is {{< git-version >}}
+
+

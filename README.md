@@ -1,10 +1,8 @@
 # git-version Extension For Quarto
 
-Get the last version (last tags) of the git repository with a quarto shortcode. 
+Get the last version (last tag) of the git repository with a quarto shortcode. 
 
 ## Installing
-
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
 
 ```bash
 quarto add MarcSoudant/git-version
